@@ -9,6 +9,7 @@ body {
 .logo{
   float: right;
   width:134px;
+  height:40px;
 }
 .link_names{
   text-align: center;
